@@ -1,6 +1,8 @@
 # pytippinginteractions
 Python scripts for studying dynamics of interacting tipping elements
 
+[![DOI](https://www.zenodo.org/badge/259251032.svg)](https://www.zenodo.org/badge/latestdoi/259251032)
+
 Authored by Ann Kristin Klose, Potsdam Institute for Climate Impact Research, 2018-2020.
 
 These python scripts have been used to produce the analysis and figures presented in the following publication:
